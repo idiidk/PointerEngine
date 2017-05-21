@@ -1,0 +1,11 @@
+c:\users\vince\documents\visual studio 2015\Projects\PointerTests\PointerTests\bin\Debug\PointerTests.exe
+c:\users\vince\documents\visual studio 2015\Projects\PointerTests\PointerTests\bin\Debug\PointerTests.pdb
+c:\users\vince\documents\visual studio 2015\Projects\PointerTests\PointerTests\bin\Debug\Bass.Net.dll
+c:\users\vince\documents\visual studio 2015\Projects\PointerTests\PointerTests\bin\Debug\PointerEngine.dll
+c:\users\vince\documents\visual studio 2015\Projects\PointerTests\PointerTests\bin\Debug\PointerEngine.pdb
+c:\users\vince\documents\visual studio 2015\Projects\PointerTests\PointerTests\obj\Debug\PointerTests.csprojResolveAssemblyReference.cache
+c:\users\vince\documents\visual studio 2015\Projects\PointerTests\PointerTests\obj\Debug\PointerTests.Form1.resources
+c:\users\vince\documents\visual studio 2015\Projects\PointerTests\PointerTests\obj\Debug\PointerTests.Properties.Resources.resources
+c:\users\vince\documents\visual studio 2015\Projects\PointerTests\PointerTests\obj\Debug\PointerTests.csproj.GenerateResource.Cache
+c:\users\vince\documents\visual studio 2015\Projects\PointerTests\PointerTests\obj\Debug\PointerTests.exe
+c:\users\vince\documents\visual studio 2015\Projects\PointerTests\PointerTests\obj\Debug\PointerTests.pdb
