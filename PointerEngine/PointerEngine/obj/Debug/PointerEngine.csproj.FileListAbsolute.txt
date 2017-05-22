@@ -1,6 +1,0 @@
-c:\users\vince\documents\visual studio 2015\Projects\PointerEngine\PointerEngine\bin\Debug\PointerEngine.dll
-c:\users\vince\documents\visual studio 2015\Projects\PointerEngine\PointerEngine\bin\Debug\PointerEngine.pdb
-c:\users\vince\documents\visual studio 2015\Projects\PointerEngine\PointerEngine\bin\Debug\Bass.Net.dll
-c:\users\vince\documents\visual studio 2015\Projects\PointerEngine\PointerEngine\obj\Debug\PointerEngine.csprojResolveAssemblyReference.cache
-c:\users\vince\documents\visual studio 2015\Projects\PointerEngine\PointerEngine\obj\Debug\PointerEngine.dll
-c:\users\vince\documents\visual studio 2015\Projects\PointerEngine\PointerEngine\obj\Debug\PointerEngine.pdb
